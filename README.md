@@ -1,23 +1,3 @@
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-
-## <a name="introduction">🤖 Introduction</a>
-
-Master Tailwind CSS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- Tailwind CSS
-- React.js
-
 ## <a name="features">🔋 Features</a>
 
 👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
@@ -50,6 +30,7 @@ while building a beautiful Nike Website with a,
 
 and many more, including code architecture and reusability 
 
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -61,11 +42,12 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Vite](https://vite.dev/)
 
 **Cloning the Repository**
 
 ```bash
-git@github.com:sudolokesh/Nike-Website.git
+git clone https://github.com/sudolokesh/Nike-Website.git
 cd Nike-Website
 ```
 
